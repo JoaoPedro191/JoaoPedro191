@@ -1,7 +1,9 @@
 ### Hi , I'm João Pedro ✋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoPedro191&show_icons=true&theme=tokyonight" width="440"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro191&layout=compact&langs_count=7&theme=tokyonight" width="430"/>
+  <a href="https://github.com/JoaoPedro191">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro191&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro191&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <br><br>
@@ -16,3 +18,4 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 <br><br>
+
