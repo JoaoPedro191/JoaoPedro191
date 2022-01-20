@@ -1,10 +1,10 @@
 ### Hi , I'm João Pedro ✋
 
-<div align="center">
+ <p float="left">
   <a href="https://github.com/JoaoPedro191">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro191&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro191&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro191&show_icons=true&theme=tokyonight width="100""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro191&layout=compact&langs_count=7&theme=tokyonight width="100""/>
+</p>
   
 <br><br>
 
