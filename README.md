@@ -1,4 +1,4 @@
-### Hello, how is everything? I'm João Pedro ✋ 
+### Hello, how is everything? I'm João Pedro 😊 
 
 <div align="center">
   <a href="https://github.com/JoaoPedro191">
