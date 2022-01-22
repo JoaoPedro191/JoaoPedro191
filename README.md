@@ -5,14 +5,12 @@
   <p align="center">Currently studying Web Development at Rocketseat <a href="https://www.rocketseat.com.br/"><i>rocketseat</i>
  <br>
 </div>
-
 <div align="center">
   <a href="https://github.com/JoaoPedro191">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro191&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro191&theme=tokyonight&hide_border=false&&layout=compact"/>
   </a>
 </div>
-
 
 ##
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
@@ -33,12 +31,10 @@
 
 <div align="center">
   
- 
   ![Snake animation](https://github.com/JoaoPedro191/JoaoPedro191/blob/output/github-contribution-grid-snake.svg)
   
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
-  
 ##   <img width="100%" height="150em" src="https://media0.giphy.com/media/3ohhwBCiBw41STOlu8/giphy.gif?cid=790b76113175907aabe7cf443cb10370b20932fb4b9df775&amp;rid=giphy.gif&amp;ct=g"/>
   
 </div>
