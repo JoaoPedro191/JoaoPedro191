@@ -17,10 +17,9 @@
 ##
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
-
 <br><br>
 <img height="160em" src="https://github-profile-trophy.vercel.app/?username=joao-ca&theme=tokyonight" />
-<br><br>
+
 ## <h1>🛠Tech Stack</h1>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
