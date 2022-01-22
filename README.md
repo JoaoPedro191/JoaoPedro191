@@ -2,7 +2,7 @@
 
 <div>
   <h1 align="center">Hello all well? I am the <i>João Pedro</i></a>😊</h1>
-  <p align="center">Currently studying Web Development at Rocketseat <a href="https://www.rocketseat.com.br/"><i>rocketseat</i>
+  <h2 align="center">Currently studying Web Development at Rocketseat <a href="https://www.rocketseat.com.br/"><i>rocketseat</i>
  <br>
 </div>
 <div align="center">
