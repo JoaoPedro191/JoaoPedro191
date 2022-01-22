@@ -20,7 +20,7 @@
 
 <br><br>
 
-<img height="180em" src="https://github-profile-trophy.vercel.app/?username=pedro-ca&theme=dracula" />
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=joao-ca&theme=tokyonight" />
 
 ## <h1>🛠Tech Stack</h1>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -46,3 +46,5 @@
   
 </div>
 <br><br>
+
+
