@@ -1,3 +1,5 @@
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+
 <div>
   <h1 align="center">Hello all well? I am the <i>João Pedro</i></a>😊</h1>
   <p align="center">Currently studying Web Development at Rocketseat <a href="https://www.rocketseat.com.br/"><i>rocketseat</i>
@@ -10,6 +12,10 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro191&theme=tokyonight&hide_border=false&&layout=compact"/>
   </a>
 </div>
+
+
+##<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+
 
 <br><br>
 ## 🛠 Tech Stack
