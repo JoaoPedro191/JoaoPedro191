@@ -35,7 +35,8 @@
   
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
-  <img src="https://media0.giphy.com/media/3ohhwBCiBw41STOlu8/giphy.gif?cid=790b76113175907aabe7cf443cb10370b20932fb4b9df775&amp;rid=giphy.gif&amp;ct=g" alt="Angular Geometry  love art animation gif GIF" style="width: 500px; height: 500px; opacity: 0; left: 0px; top: 0px;">
-
+  
+##   <img width="100%" height="150em" src="https://media0.giphy.com/media/3ohhwBCiBw41STOlu8/giphy.gif?cid=790b76113175907aabe7cf443cb10370b20932fb4b9df775&amp;rid=giphy.gif&amp;ct=g"/>
+  
 </div>
 <br><br>
