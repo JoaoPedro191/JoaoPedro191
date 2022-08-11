@@ -1,7 +1,7 @@
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
 <div>
-  <h1 align="center">Hello all well? I am the <i>João Pedro</i></a>😊</h1>
+  <h1 align="center"> I'm the <i>João Pedro</i></a>😊</h1>
   <h2 align="center">Currently studying Web Development at Rocketseat <a href="https://www.rocketseat.com.br/"><i>rocketseat</i>
  <br>
 </div>
