@@ -42,7 +42,7 @@
 
 ## 📈 Contributions
 ![Snake animation](https://raw.githubusercontent.com/JoaoPedro191/JoaoPedro191/output/github-contribution-grid-snake.svg)
----
+
 
 <div align="center">
   <img width="100%" height="150em" src="https://media0.giphy.com/media/3ohhwBCiBw41STOlu8/giphy.gif?cid=790b76113175907aabe7cf443cb10370b20932fb4b9df775&rid=giphy.gif&ct=g"/>
