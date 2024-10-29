@@ -21,7 +21,7 @@
 
 ---
 
-## 🏆 Conquistas e Certificações
+## 🏆 Achievements and Certifications
 <div align="center">
   <img height="160em" src="https://github-profile-trophy.vercel.app/?username=joao-ca&theme=tokyonight" />
 </div>
