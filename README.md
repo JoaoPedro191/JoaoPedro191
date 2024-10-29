@@ -4,8 +4,6 @@
   <h1>Hi, I'm <i>João Pedro</i> 😊</h1>
 </div>
 
----
-
 <div align="center">
   <h3>🔍 About Me</h3>
   <p>Passionate software developer | Java & JavaScript enthusiast | Building solutions, one line of code at a time 🚀💻</p>
