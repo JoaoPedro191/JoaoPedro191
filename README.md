@@ -10,7 +10,7 @@
 
 <div align="center">
   <h3>🔍 Sobre Mim</h3>
-  <p>Sou um entusiasta da tecnologia com um foco especial em criar interfaces intuitivas e funcionais. Com uma mentalidade voltada para a resolução de problemas, estou dedicado a aprender e a me desenvolver continuamente na área de desenvolvimento.</p>
+  <p>Passionate software developer | Java & JavaScript enthusiast | Building solutions, one line of code at a time 🚀💻</p>
 </div>
 
 ---
