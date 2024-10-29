@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-  <h3>📊 Estatísticas do GitHub</h3>
+  <h3>📊 GitHub Stats</h3>
   <a href="https://github.com/JoaoPedro191">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro191&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro191&theme=tokyonight&hide_border=false&layout=compact"/>
