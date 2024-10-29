@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  <h3>🔍 Sobre Mim</h3>
+  <h3>🔍 About Me</h3>
   <p>Passionate software developer | Java & JavaScript enthusiast | Building solutions, one line of code at a time 🚀💻</p>
 </div>
 
