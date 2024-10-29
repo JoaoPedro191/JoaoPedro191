@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Hi, I'm <i>João Pedro</i> 😊</h1>
-  <h2>Desenvolvedor Web | Estudante da <a href="https://www.rocketseat.com.br/" target="_blank"><i>Rocketseat</i></a></h2>
+  <h2>Web Developer | Student of <a href="https://www.rocketseat.com.br/" target="_blank"><i>Rocketseat</i></a></h2>
   <p>Transformando ideias em realidade digital. Com experiência na área, estou sempre em busca de novos desafios e oportunidades para aprimorar ainda mais minhas habilidades em desenvolvimento web.</p>
 </div>
 
