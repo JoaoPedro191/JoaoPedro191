@@ -1,9 +1,9 @@
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
 <div align="center">
-  <h1>Olá, eu sou <i>João Pedro</i> 😊</h1>
-  <h2>Desenvolvedor Web em formação | Estudante da <a href="https://www.rocketseat.com.br/" target="_blank"><i>Rocketseat</i></a></h2>
-  <p>Transformando ideias em realidade digital. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades em desenvolvimento web.</p>
+  <h1>Hi, I'm <i>João Pedro</i> 😊</h1>
+  <h2>Desenvolvedor Web | Estudante da <a href="https://www.rocketseat.com.br/" target="_blank"><i>Rocketseat</i></a></h2>
+  <p>Transformando ideias em realidade digital. Com experiência na área, estou sempre em busca de novos desafios e oportunidades para aprimorar ainda mais minhas habilidades em desenvolvimento web.</p>
 </div>
 
 ---
